@@ -43,7 +43,8 @@ plt.show()
 ```
 
 ## Output:
-![Uploading WhatsApp Image 2026-01-24 at 2.44.52 PM.jpeg…]()
+![Uploading Screenshot 2026-01-24 144433.png…]()
+
 
 
 
